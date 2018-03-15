@@ -38,6 +38,13 @@ body {
 #goal-container {
     padding:20px;
 }
+#goal-container2 {
+    padding:20px;
+}
+#goal-container3 {
+    padding:20px;
+}
+
 .subtext {
     font-size:.8em;
     text-transform:uppercase;
@@ -53,7 +60,7 @@ h1 {
 
 button {
     float:right;
-    background:#FF0057;
+    background:#2f61ce;
     border:none;
     color:#fff;
     text-transform:uppercase;
